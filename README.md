@@ -1,5 +1,8 @@
-# 🏆 Nobel Prize Data Analysis
+# 🏆 Exploratory Data Analysis (EDA) of Nobel Prize Winners: Patterns Across Time and Categories
 
+<p><img style="display: block; margin-right: auto; max-width: 250px;" src="images/Nobel_Prize.png" alt="Nobel Prize medal"></p>
+
+---
 An exploratory data analysis (EDA) project examining over a century of Nobel Prize awards to uncover trends, patterns, and potential biases in global recognition.
 
 ---
@@ -8,7 +11,7 @@ An exploratory data analysis (EDA) project examining over a century of Nobel Pri
 
 The Nobel Prize is one of the most prestigious global honors, awarded annually since 1901 in categories such as Physics, Chemistry, Medicine, Literature, Economics, and Peace.
 
-This project uses data analysis and visualization techniques to explore:
+This project uses data analysis and visualisation techniques to explore:
 
 * Distribution of Nobel Prize winners across categories
 * Geographic dominance and the rise of the United States
@@ -39,15 +42,6 @@ The goal is to provide a **data-driven perspective** on whether Nobel Prize reco
 * **Matplotlib & Seaborn** – Data visualization
 * **Jupyter Notebook** – Analysis environment
 
----
-
-## 📁 Project Structure
-
-```
-├── notebook.ipynb     # Main analysis notebook
-├── nobel.csv          # Dataset
-└── README.md          # Project documentation
-```
 
 ---
 
@@ -66,13 +60,13 @@ The goal is to provide a **data-driven perspective** on whether Nobel Prize reco
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nobel-prize-analysis.git
+git clone https://github.com/OlumideOlumayegun/exploratory-data-analysis-of-nobel-prize-winners.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd nobel-prize-analysis
+cd exploratory-data-analysis-of-nobel-prize-winners
 ```
 
 3. Install dependencies:
@@ -92,7 +86,7 @@ jupyter notebook
 ## 🎯 Learning Outcomes
 
 * Performed end-to-end exploratory data analysis (EDA)
-* Built clear and effective data visualizations
+* Built clear and effective data visualisations
 * Identified trends and patterns in historical data
 * Communicated insights through structured storytelling
 
