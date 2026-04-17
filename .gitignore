@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+# Large datasets
+datasets/
 # Distribution / packaging
 .Python
 build/
